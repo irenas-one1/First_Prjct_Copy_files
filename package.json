@@ -1,0 +1,24 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irenas-one1/Test_Repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irenas-one1/Test_Repository/issues"
+  },
+  "homepage": "https://github.com/irenas-one1/Test_Repository#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
