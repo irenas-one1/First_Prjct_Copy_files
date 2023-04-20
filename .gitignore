@@ -1,4 +1,7 @@
-# ignore.all .txt files
+// ignore.all .txt & .env files becouse private information 
 #*.txt
+#*.env
+#*.log
+
 
 /node_modules

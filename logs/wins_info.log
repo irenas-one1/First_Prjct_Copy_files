@@ -1,0 +1,66 @@
+
+  message: "Number of directories created: '0'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 12:57:38'
+}
+{
+  message: "Number of files copied: '6'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 12:57:38'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\src_dir' to 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\trgt_dir'",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 12:58:32'
+}
+{
+  message: "Number of directories created: '0'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 12:58:32'
+}
+{
+  message: "Number of files copied: '6'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 12:58:32'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\src_dir' to 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\trgt_dir'",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 12:58:49'
+}
+{
+  message: "Number of directories created: '0'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 12:58:49'
+}
+{
+  message: "Number of files copied: '6'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 12:58:49'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\src_dir' to 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\trgt_dir'",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 15:04:12'
+}
+{
+  message: "Number of directories created: '0'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 15:04:12'
+}
+{
+  message: "Number of files copied: '6'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '04-Apr-2023 15:04:12'
+}

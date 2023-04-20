@@ -7,18 +7,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irenas-one1/Test_Repository.git"
+    "url": "git+https://github.com/irenas-one1/First_Prjct_Copy_files.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/irenas-one1/Test_Repository/issues"
+    "url": "https://github.com/irenas-one1/First_Prjct_Copy_files.git"
   },
-  "homepage": "https://github.com/irenas-one1/Test_Repository#readme",
+  "homepage": "https://github.com/irenas-one1/First_Prjct_Copy_files.git#readme",
   "keywords": [],
   "description": "",
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "lodash": "^4.17.21"
+    "dotenv": "^16.0.3",
+    "lodash": "^4.17.21",
+    "node.date-time": "^1.2.2",
+    "winston": "^3.8.2"
   }
 }
