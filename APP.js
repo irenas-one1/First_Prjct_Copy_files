@@ -11,8 +11,8 @@ logger.error(`App.js>> Try copy files from '${src_dir_path}' to '${trgt_dir_path
 const start = async () => {
     try {
         let result = await copyDir(src_dir_path, trgt_dir_path);
-        console.log(`Number of directories created: '${result.cre_dirs_counter}'`) ;
-        console.log(`Number of files copied: '${result.files_counter}'`) ;
+        // console.log(`Number of directories created: '${result.cre_dirs_counter}'`) ;
+        // console.log(`Number of files copied: '${result.files_counter}'`) ;
         logger.info(`Number of directories created: '${result.cre_dirs_counter}'`);
         logger.info(`Number of files copied: '${result.files_counter}'`);
     } catch (err) {
