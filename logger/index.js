@@ -1,6 +1,7 @@
 const { format, createLogger, transports } = require("winston");
 const { combine, timestamp, label, printf, prettyPrint } = format;
 const CATEGORY = "Winston logger";
+const log_file_path = process.env.log_file_path;
 
 //Using the printf format.
 const customFormat = printf(({ level, message, label, timestamp }) => {
@@ -20,15 +21,11 @@ const logger = createLogger({
 
     transports: [
         new transports.Console({
-            level: 'warn'
+            level: 'info'
         }),
         new transports.File({
             level: 'info',
-            filename: 'logs/wins_info.log'
-        }),
-        new transports.File({
-            level: 'error',
-            filename: 'logs/wins_errors.log'
+            filename: log_file_path
         })
     ]
 })

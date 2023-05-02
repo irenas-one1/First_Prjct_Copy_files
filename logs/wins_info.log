@@ -1,66 +1,198 @@
-
-  message: "Number of directories created: '0'",
-  level: 'info',
-  label: 'Winston logger',
-  timestamp: '04-Apr-2023 12:57:38'
-}
 {
-  message: "Number of files copied: '6'",
-  level: 'info',
-  label: 'Winston logger',
-  timestamp: '04-Apr-2023 12:57:38'
-}
-{
-  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\src_dir' to 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\trgt_dir'",
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Trgt_dir'",
   level: 'error',
   label: 'Winston logger',
-  timestamp: '04-Apr-2023 12:58:32'
+  timestamp: '02-May-2023 13:07:41'
 }
 {
   message: "Number of directories created: '0'",
-  level: 'info',
-  label: 'Winston logger',
-  timestamp: '04-Apr-2023 12:58:32'
-}
-{
-  message: "Number of files copied: '6'",
-  level: 'info',
-  label: 'Winston logger',
-  timestamp: '04-Apr-2023 12:58:32'
-}
-{
-  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\src_dir' to 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\trgt_dir'",
   level: 'error',
   label: 'Winston logger',
-  timestamp: '04-Apr-2023 12:58:49'
+  timestamp: '02-May-2023 13:07:41'
 }
 {
-  message: "Number of directories created: '0'",
-  level: 'info',
-  label: 'Winston logger',
-  timestamp: '04-Apr-2023 12:58:49'
-}
-{
-  message: "Number of files copied: '6'",
-  level: 'info',
-  label: 'Winston logger',
-  timestamp: '04-Apr-2023 12:58:49'
-}
-{
-  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\src_dir' to 'C:\\Temp\\Java_First_Prjct\\First_Prjct_Copy_files\\trgt_dir'",
+  message: "Number of files copied: '4'",
   level: 'error',
   label: 'Winston logger',
-  timestamp: '04-Apr-2023 15:04:12'
+  timestamp: '02-May-2023 13:07:41'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Trgt_dir'",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:09:11'
+}
+{
+  message: "Fnc_CopyDir>> Created directory 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Trgt_dir'",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:09:11'
+}
+{
+  message: "Fnc_CopyDir>> Created directory 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Trgt_dir\\F1'",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:09:11'
+}
+{
+  message: "Number of directories created: '2'",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:09:11'
+}
+{
+  message: "Number of files copied: '4'",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:09:11'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Trgt_dir'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:09:51'
 }
 {
   message: "Number of directories created: '0'",
   level: 'info',
   label: 'Winston logger',
-  timestamp: '04-Apr-2023 15:04:12'
+  timestamp: '02-May-2023 13:09:51'
 }
 {
-  message: "Number of files copied: '6'",
+  message: "Number of files copied: '4'",
   level: 'info',
   label: 'Winston logger',
-  timestamp: '04-Apr-2023 15:04:12'
+  timestamp: '02-May-2023 13:09:51'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Trgt_dir'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:10:24'
+}
+{
+  message: "Number of directories created: '0'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:10:24'
+}
+{
+  message: "Number of files copied: '4'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:10:24'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Trgt_dir'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:09'
+}
+{
+  message: "Number of directories created: '0'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:09'
+}
+{
+  message: "Number of files copied: '4'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:09'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to 'undefined'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:26'
+}
+{
+  message: `Fnc_CopyDir>> Error copying files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to 'undefined': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined`,
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:26'
+}
+{
+  message: 'copyDir Error: Faild To Copy Files',
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:26'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to 'fgkldjkfj'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:56'
+}
+{
+  message: "Fnc_CopyDir>> Created directory 'fgkldjkfj'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:56'
+}
+{
+  message: "Fnc_CopyDir>> Created directory 'fgkldjkfj\\F1'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:56'
+}
+{
+  message: "Number of directories created: '2'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:56'
+}
+{
+  message: "Number of files copied: '4'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:30:56'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src_dir' to '1'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:31:37'
+}
+{
+  message: "Fnc_CopyDir>> Created directory '1'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:31:37'
+}
+{
+  message: "Fnc_CopyDir>> Created directory '1\\F1'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:31:37'
+}
+{
+  message: "Number of directories created: '2'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:31:37'
+}
+{
+  message: "Number of files copied: '4'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:31:37'
+}
+{
+  message: "App.js>> Try copy files from 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src' to 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Trgt_dir'",
+  level: 'info',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:32:04'
+}
+{
+  message: "Fnc_CopyDir>> Source directory 'C:\\Temp\\Java_First_Prjcts\\First_Prjct_Copy_files\\Src' does not exist",
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:32:04'
+}
+{
+  message: 'copyDir Error: Faild To Copy Files',
+  level: 'error',
+  label: 'Winston logger',
+  timestamp: '02-May-2023 13:32:04'
 }

@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const logger = require("./logger");
+const do_message = require("./Fnc_do_message");
+
 let files_counter = 0;
 let cre_dirs_counter = 0;
 
@@ -8,15 +9,18 @@ async function copyDir(source, destination) {
   try {
     // Check if source directory exists    
     if (!fs.existsSync(source)) {
-      logger.error(`Fnc_CopyDir>> Source directory '${source}' does not exist`);
+      v_msg_data = `Fnc_CopyDir>> Source directory '${source}' does not exist`;
+      do_message(-1,v_msg_data);
       return;
     }
-
+  
     // Check if destination directory exists, create it if it doesn't
     if (!fs.existsSync(destination)) {
        fs.mkdirSync(destination);
        cre_dirs_counter++;
-       logger.error(`Fnc_CopyDir>> Created directory '${destination}'`);
+      
+       v_msg_data = `Fnc_CopyDir>> Created directory '${destination}'`;
+       do_message(0,v_msg_data);
     }
    
     // Get all files in source directory
@@ -40,7 +44,10 @@ async function copyDir(source, destination) {
     })
     return{cre_dirs_counter,files_counter};
   } catch (err) {
-    logger.error(`Fnc_CopyDir>> Error copying files from '${source}' to '${destination}': ${err}`);
+
+    v_msg_data = `Fnc_CopyDir>> Error copying files from '${source}' to '${destination}': ${err}`;
+    do_message(-1,v_msg_data);
+   
   }
 }
 module.exports = copyDir;
